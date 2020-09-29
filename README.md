@@ -1,6 +1,6 @@
 # Bootcamp GoStack - RocketSeat
 
-RocketSeat bootcamp, an educational startup that teaches basic and avanced topics in software development though Javascript stack Node.js, React.JS and React Native.
+RocketSeat bootcamp, an educational startup that teaches basic and advanced topics in software development though Javascript stack Node.js, React.JS and React Native.
 
 ## Challenge 03
 
