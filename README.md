@@ -2,7 +2,7 @@
 
 RocketSeat bootcamp, an educational startup that teaches basic and avanced topics in software development though Javascript stack Node.js, React.JS and React Native.
 
-## Challange 03
+## Challenge 03
 
 Basic ReactJS concepts, using TDD to develop a GitHub repositories simple app, to list, add and remove Git repositories, integrated with the api from [Challenge 02](thub.com/dhaubert/rocketseat-gostack-desafio02)
 
